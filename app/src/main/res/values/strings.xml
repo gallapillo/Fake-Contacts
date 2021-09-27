@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fake Contacts</string>
+    <string name="avatar">Avatar</string>
+    <string name="photo">Photo</string>
+    <string name="move_up">Move Up</string>
+    <string name="move_down">Move Down</string>
+    <string name="remove">remove</string>
+</resources>
